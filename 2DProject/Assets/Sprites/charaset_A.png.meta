@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 6cbf7d96a2f30b5469f2f98bcf9374c1
+timeCreated: 1464251782
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charaset_A_0
+    21300002: charaset_A_1
+    21300004: charaset_A_2
+    21300006: charaset_A_3
+    21300008: charaset_A_4
+    21300010: charaset_A_5
+    21300012: charaset_A_6
+    21300014: charaset_A_7
+    21300016: charaset_A_8
+    21300018: charaset_A_9
+    21300020: charaset_A_10
+    21300022: charaset_A_11
+    21300024: charaset_A_12
+    21300026: charaset_A_13
+    21300028: charaset_A_14
+    21300030: charaset_A_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: charaset_A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+    - name: charaset_A_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+    - name: charaset_A_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+    - name: charaset_A_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -13}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -6}
+        - {x: 8, y: 16}
+    - name: charaset_A_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -6}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 16}
+    - name: charaset_A_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -13}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -6}
+        - {x: 8, y: 16}
+    - name: charaset_A_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -6}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 16}
+    - name: charaset_A_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 4}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: charaset_A_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 4}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: charaset_A_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 4}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    - name: charaset_A_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 4}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
